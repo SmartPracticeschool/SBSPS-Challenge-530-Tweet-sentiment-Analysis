@@ -11,13 +11,21 @@ In the final architecture AWS API Gateway and AWS Lambda functions is used as we
 # General Outline
 
 Step 1: Downloading the data
+
 Step 2: Preparing and Processing the data
+
 Step 3: Upload the data
+
 Step 4: Build and Train the PyTorch Model
+
 Step 5: Testing the Model
+
 Step 6: Deploying the model for testing
+
 Step 7: Use the model for testing
+
 Step 6 Deploy the model for the web app
+
 Step 7 Use the model for the web app
 
 
