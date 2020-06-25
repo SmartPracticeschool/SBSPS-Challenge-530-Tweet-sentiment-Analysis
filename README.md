@@ -12,7 +12,7 @@ In the final architecture AWS API Gateway and AWS Lambda functions is used as we
 ## Web app final result
 
 The final project will be executed in a simple html page which can be deployed anywhere. 
-I've deplayed it on IBM Cloud
+I've deployed it on IBM Cloud
 
 https://website-sarthak1.mybluemix.net
 
