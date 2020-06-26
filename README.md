@@ -33,7 +33,7 @@ Step 7 Use the model for the web app
 
 The final project is executed in a html page which is deployed on IBM Cloud.
 
-https://website-sarthak1.mybluemix.net
+https://tweet-app.mybluemix.net
 
 and Soon I will explain my project with a video.
 
