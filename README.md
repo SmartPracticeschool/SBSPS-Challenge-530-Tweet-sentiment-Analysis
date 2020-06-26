@@ -31,12 +31,11 @@ Step 7 Use the model for the web app
 
 ## Web app final result
 
-The final project will be executed in a simple html page which can be deployed anywhere. 
-I've deployed it on IBM Cloud
+The final project is executed in a html page which is deployed on IBM Cloud.
 
 https://website-sarthak1.mybluemix.net
 
 and Soon I will explain my project with a video.
 
-NOTE - I've also used AWS because IBM cloud services such as powerful GPU instances were not available for my projects since I'm a Student free tier limited user.
+NOTE - I've also used different cloud services because IBM cloud account provided by smartinternz is the limited free student Tier and has lots of limitation regarding instances and I needed powerful GPUs for my project which were not availabe in my free Student Tier with IBM.
 
