@@ -40,7 +40,9 @@ https://tweet-app.mybluemix.net
 Sources used in video to check the sentiment of the tweet.
 
 https://twitter.com/i/events/1240662046280048646?lang=en
+
 https://twitter.com/hashtag/Covid19?src=hashtag_click
+
 https://www.hindustantimes.com/india-news/maharashtra-minister-tweets-negative-covid-19-test-report-slams-rumours/story-HWE96RBxYZVSMYWKcyuxrL.html
 
 
