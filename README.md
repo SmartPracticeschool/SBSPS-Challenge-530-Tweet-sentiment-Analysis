@@ -45,6 +45,9 @@ https://twitter.com/hashtag/Covid19?src=hashtag_click
 
 https://www.hindustantimes.com/india-news/maharashtra-minister-tweets-negative-covid-19-test-report-slams-rumours/story-HWE96RBxYZVSMYWKcyuxrL.html
 
+Drive link for video(if youtube link doesn't work) 
+https://rb.gy/92rrjq
+
 
 NOTE - I've also used different cloud services because IBM cloud account provided by smartinternz is the limited free student Tier and has lots of limitation regarding instances and I needed powerful GPUs for my project which were not availabe in my free Student Tier with IBM.
 
