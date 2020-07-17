@@ -35,7 +35,14 @@ The final project is executed in a html page which is deployed on IBM Cloud.
 
 https://tweet-app.mybluemix.net
 
-and Soon I will explain my project with a video.
+## Project demo Video Link https://youtu.be/lITu6mjgqsY
+
+Sources used in video to check the sentiment of the tweet.
+
+https://twitter.com/i/events/1240662046280048646?lang=en
+https://twitter.com/hashtag/Covid19?src=hashtag_click
+https://www.hindustantimes.com/india-news/maharashtra-minister-tweets-negative-covid-19-test-report-slams-rumours/story-HWE96RBxYZVSMYWKcyuxrL.html
+
 
 NOTE - I've also used different cloud services because IBM cloud account provided by smartinternz is the limited free student Tier and has lots of limitation regarding instances and I needed powerful GPUs for my project which were not availabe in my free Student Tier with IBM.
 
